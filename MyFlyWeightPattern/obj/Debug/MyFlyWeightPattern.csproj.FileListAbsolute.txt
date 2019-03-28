@@ -1,0 +1,6 @@
+c:\users\ben\source\repos\MyFlyWeightPattern\MyFlyWeightPattern\obj\Debug\MyFlyWeightPattern.csprojAssemblyReference.cache
+c:\users\ben\source\repos\MyFlyWeightPattern\MyFlyWeightPattern\obj\Debug\MyFlyWeightPattern.csproj.CoreCompileInputs.cache
+c:\users\ben\source\repos\MyFlyWeightPattern\MyFlyWeightPattern\bin\Debug\MyFlyWeightPattern.exe
+c:\users\ben\source\repos\MyFlyWeightPattern\MyFlyWeightPattern\bin\Debug\MyFlyWeightPattern.pdb
+c:\users\ben\source\repos\MyFlyWeightPattern\MyFlyWeightPattern\obj\Debug\MyFlyWeightPattern.exe
+c:\users\ben\source\repos\MyFlyWeightPattern\MyFlyWeightPattern\obj\Debug\MyFlyWeightPattern.pdb
